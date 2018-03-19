@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "782346748691",
+    "firebase_url": "https://mytodoapp-9c953.firebaseio.com",
+    "project_id": "mytodoapp-9c953",
+    "storage_bucket": "mytodoapp-9c953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782346748691:android:d1b1f9fe09a1061d",
+        "android_client_info": {
+          "package_name": "roshaan.mytodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782346748691-i5j53ata13u23um9taekme09v8peah3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgG76nPc7HVYamOrcp0ivbsFJ08BefIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782346748691:android:7fade9ad763f127c",
+        "android_client_info": {
+          "package_name": "com.example.roshaan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782346748691-b2uaidm2squkgk6h88l4edlthuda1nh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roshaan.firebase",
+            "certificate_hash": "7c5d37f1fca7de6ce6b757e5e0a917658fb52681"
+          }
+        },
+        {
+          "client_id": "782346748691-i5j53ata13u23um9taekme09v8peah3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgG76nPc7HVYamOrcp0ivbsFJ08BefIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782346748691-i5j53ata13u23um9taekme09v8peah3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782346748691:android:ce9825e4d3ddfc41",
+        "android_client_info": {
+          "package_name": "roshaan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782346748691-sm0qik26qrp263jv3desagugllb527fr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "roshaan.firebase",
+            "certificate_hash": "cf24799ed87d0b877855ccc45e6dd3ab76461579"
+          }
+        },
+        {
+          "client_id": "782346748691-i5j53ata13u23um9taekme09v8peah3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxgG76nPc7HVYamOrcp0ivbsFJ08BefIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782346748691-i5j53ata13u23um9taekme09v8peah3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
